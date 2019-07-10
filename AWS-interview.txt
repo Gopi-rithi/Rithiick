@@ -1,0 +1,37 @@
+1. what are the storage class in AWS
+
+2. which tool using for migration
+
+3. how do you design for migration. ( on premisis to cluod)
+
+4. what is container and why it is need for.
+
+5. what are task you did in automation taks
+
+6. Jenkins Master - server model
+ 
+7. what is your day to day activity 
+
+8. serverless and events and Lamda 
+
+9. how do you fix error in terraform
+
+10. what you do on docker ?
+
+
+1. why your looking for change
+
+2. what is your strength and weekness
+
+3. how do you contribute to this company
+
+4. how to handle conflit with other
+
+5. what is achivement
+
+6. what is goal
+
+7. 
+
+
+
